@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I am using GitHub.
+
+This account is used for some work stuff (private repos) and some private stuff (public repos). Shouldn't it be the other way around?!
+
+- 🌱 I’m currently learning ... about all the requirements to get GitHub Education and that it is possible to have a GitHub Account personal readme.
+- 📫 How to reach me: ... right now it looks like GitHub will just become my new social media! Like, Follow, and subscribe
+
 
 <!--
 **PerNots/PerNots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
