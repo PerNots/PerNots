@@ -2,8 +2,8 @@
 
 This account is used for some work stuff (private repos) and some private stuff (public repos). Shouldn't it be the other way around?!
 
-- 🌱 I’m currently learning ... about all the requirements to get GitHub Education and that it is possible to have a GitHub Account personal readme.
-- 📫 How to reach me: ... right now it looks like GitHub will just become my new social media! Like, Follow, and subscribe
+- 🌱 I’m currently learning ... that it is possible to have a GitHub Account personal readme.
+- 📫 How to reach me: ... looks like GitHub will just become my new social media! Like, Follow, and subscribe
 
 
 <!--
